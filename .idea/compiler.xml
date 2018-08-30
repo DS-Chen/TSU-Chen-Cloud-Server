@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TSU-Chen-Cloud-Server" />
+        <module name="tsu-client-a" />
+        <module name="tsu-client-b" />
+        <module name="tsu-common" />
+        <module name="tsu-config-server" />
+        <module name="tsu-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TSU-Chen-Cloud-Server" target="1.7" />
+      <module name="tsu-client-a" target="1.7" />
+      <module name="tsu-client-b" target="1.7" />
+      <module name="tsu-common" target="1.7" />
+      <module name="tsu-config-server" target="1.8" />
+      <module name="tsu-eureka-server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

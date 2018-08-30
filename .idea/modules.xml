@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TSU-Chen-Cloud-Server.iml" filepath="$PROJECT_DIR$/TSU-Chen-Cloud-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsu-client-a/tsu-client-a.iml" filepath="$PROJECT_DIR$/tsu-client-a/tsu-client-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsu-client-b/tsu-client-b.iml" filepath="$PROJECT_DIR$/tsu-client-b/tsu-client-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsu-common/tsu-common.iml" filepath="$PROJECT_DIR$/tsu-common/tsu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsu-config-server/tsu-config-server.iml" filepath="$PROJECT_DIR$/tsu-config-server/tsu-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsu-eureka-server/tsu-eureka-server.iml" filepath="$PROJECT_DIR$/tsu-eureka-server/tsu-eureka-server.iml" />
+    </modules>
+  </component>
+</project>
