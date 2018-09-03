@@ -1,0 +1,5 @@
+com\tsu\clienta\entity\Course.class
+com\tsu\clienta\mapper\StudentCourseMapper.class
+com\tsu\clienta\TsuClientAApplication.class
+com\tsu\clienta\entity\Student.class
+com\tsu\clienta\controller\StudentController.class
