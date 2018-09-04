@@ -2,35 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f46d14e-e2a1-4a50-bd16-38ac07608f89" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/filter/AccessFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TSU-Chen-Cloud-Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TSU-Chen-Cloud-Server.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/TsuClientAApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/controller/StudentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/mapper/StudentCourseMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/mappers/StudentCourseMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/test-classes/com/tsu/clienta/TsuClientAApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/TsuClientAApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/TsuClientAApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/mapper/StudentCourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/classes/com/tsu/clienta/mapper/StudentCourseMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/client-a-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/client-a-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/client-a-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/client-a-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/surefire-reports/TEST-com.tsu.clienta.TsuClientAApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/surefire-reports/TEST-com.tsu.clienta.TsuClientAApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/surefire-reports/com.tsu.clienta.TsuClientAApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/surefire-reports/com.tsu.clienta.TsuClientAApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-a/target/test-classes/com/tsu/clienta/TsuClientAApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/target/test-classes/com/tsu/clienta/TsuClientAApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-client-a/tsu-client-a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-a/tsu-client-a.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/classes/com/tsu/clientb/TsuClientBApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/classes/com/tsu/clientb/TsuClientBApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/client-b-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/client-b-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/client-b-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/client-b-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/surefire-reports/TEST-com.tsu.clientb.TsuClientBApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/surefire-reports/TEST-com.tsu.clientb.TsuClientBApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/surefire-reports/com.tsu.clientb.TsuClientBApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/surefire-reports/com.tsu.clientb.TsuClientBApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-client-b/target/test-classes/com/tsu/clientb/TsuClientBApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/target/test-classes/com/tsu/clientb/TsuClientBApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-client-b/tsu-client-b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-client-b/tsu-client-b.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-common/src/test/java/com/tsu/common/TsuCommonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-common/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-common/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/BaseResponseVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/DataResponseVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-common/target/test-classes/com/tsu/common/TsuCommonApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/BaseResponseVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/BaseResponseVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/DataResponseVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-common/target/classes/com/tsu/common/vo/DataResponseVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-common/target/common-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-common/target/common-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-common/tsu-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-common/tsu-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/classes/com/tsu/tsuconfigserver/TsuConfigServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/src/test/java/com/tsu/tsuconfigserver/TsuConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/surefire-reports/TEST-com.tsu.tsuconfigserver.TsuConfigServerApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/surefire-reports/com.tsu.tsuconfigserver.TsuConfigServerApplicationTests.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-config-server/target/test-classes/com/tsu/tsuconfigserver/TsuConfigServerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/classes/com/tsu/eurekaserver/TsuEurekaServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/tsu-config-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-config-server/target/tsu-config-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/target/tsu-config-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-config-server/target/tsu-config-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-config-server/tsu-config-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-config-server/tsu-config-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/src/test/java/com/tsu/eurekaserver/TsuEurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/classes/com/tsu/eurekaserver/TsuEurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-eureka-server/target/classes/com/tsu/eurekaserver/TsuEurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/surefire-reports/TEST-com.tsu.eurekaserver.TsuEurekaServerApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/surefire-reports/com.tsu.eurekaserver.TsuEurekaServerApplicationTests.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/test-classes/com/tsu/eurekaserver/TsuEurekaServerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/tsu-eureka-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-eureka-server/target/tsu-eureka-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsu-eureka-server/target/tsu-eureka-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-eureka-server/target/tsu-eureka-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsu-eureka-server/tsu-eureka-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tsu-eureka-server/tsu-eureka-server.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,6 +68,8 @@
     <ignored path="$PROJECT_DIR$/tsu-client-a/target/" />
     <ignored path="$PROJECT_DIR$/tsu-client-b/target/" />
     <ignored path="$PROJECT_DIR$/tsu-common/target/" />
+    <ignored path="$PROJECT_DIR$/tsu-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/tsu-zipkin-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,55 +83,76 @@
       </map>
     </option>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-230928911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="174" />
-          <entry key="java" value="264" />
-          <entry key="properties" value="172" />
-          <entry key="xml" value="115" />
+          <entry key="java" value="545" />
+          <entry key="md" value="435" />
+          <entry key="properties" value="892" />
+          <entry key="xml" value="268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="264" />
-          <entry key="Properties" value="172" />
+          <entry key="JAVA" value="545" />
+          <entry key="Markdown" value="435" />
+          <entry key="Properties" value="892" />
           <entry key="VTL" value="174" />
-          <entry key="XML" value="115" />
+          <entry key="XML" value="268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="cmd" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="27" />
+          <entry key="iml" value="6" />
+          <entry key="java" value="38" />
+          <entry key="md" value="5" />
           <entry key="mvnw" value="1" />
-          <entry key="properties" value="13" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="21" />
           <entry key="txt" value="3" />
-          <entry key="xml" value="19" />
+          <entry key="xml" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="27" />
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="6" />
+          <entry key="JAVA" value="38" />
+          <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Properties" value="13" />
-          <entry key="XML" value="19" />
+          <entry key="Properties" value="21" />
+          <entry key="XML" value="41" />
         </counts>
       </usages-collector>
     </session>
@@ -111,52 +162,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131">
-              <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+            <state relative-caret-position="309">
+              <caret line="44" column="40" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-client-a/pom.xml">
+        <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-common/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-eureka-server/src/main/java/com/tsu/eurekaserver/TsuEurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-eureka-server/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
+            <state relative-caret-position="-80">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -164,26 +180,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tsu-client-b/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="449">
+              <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/tsu-common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="400">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/TsuConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsu-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsu-consumer/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/src/main/java/com/tsu/zipkinserver/TsuZipkinServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -214,8 +266,6 @@
         <option value="$PROJECT_DIR$/tsu-config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tsu-eureka-server/src/main/java/com/tsu/eurekaserver/TsuEurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/tsu-config-server/src/main/java/com/tsu/tsuconfigserver/TsuConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java" />
-        <option value="$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java" />
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/entity/Student.java" />
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/entity/Course.java" />
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/vo/BaseResponseVo.java" />
@@ -224,13 +274,23 @@
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/mapper/StudentCourseMapper.java" />
         <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/TsuConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java" />
+        <option value="$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java" />
+        <option value="$PROJECT_DIR$/tsu-zipkin-server/src/main/java/com/tsu/zipkinserver/TsuZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/tsu-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tsu-zipkin-server/pom.xml" />
         <option value="$PROJECT_DIR$/tsu-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/tsu-config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/tsu-client-b/pom.xml" />
         <option value="$PROJECT_DIR$/tsu-client-a/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/tsu-common/pom.xml" />
-        <option value="$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tsu-client-b/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tsu-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/tsu-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tsu-zipkin-server/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -252,11 +312,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tsu-cloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="tsu-zipkin-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tsu-cloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="tsu-zipkin-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -264,7 +324,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
+    <option name="x" value="194" />
+    <option name="y" value="464" />
     <option name="width" value="1554" />
     <option name="height" value="1047" />
   </component>
@@ -298,13 +359,65 @@
               <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
               <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-zipkin-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TSU-Chen-Cloud-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TSU-Chen-Cloud-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="tsu-zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,8 +429,8 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535961311818" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GPSCloudServer" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536053767894" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -342,7 +455,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TsuClientAApplication">
+  <component name="RunManager" selected="Spring Boot.TsuZipkinServerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -382,9 +495,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TsuConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tsu-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tsu.consumer.TsuConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TsuEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="tsu-eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tsu.eurekaserver.TsuEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TsuZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tsu-zipkin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tsu.zipkinserver.TsuZipkinServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -411,6 +538,8 @@
       <item itemvalue="Spring Boot.TsuEurekaServerApplication" />
       <item itemvalue="Spring Boot.TsuClientAApplication" />
       <item itemvalue="Spring Boot.TsuClientBApplication" />
+      <item itemvalue="Spring Boot.TsuConsumerApplication" />
+      <item itemvalue="Spring Boot.TsuZipkinServerApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -429,16 +558,19 @@
       <workItem from="1535610785977" duration="1732000" />
       <workItem from="1535612558528" duration="6665000" />
       <workItem from="1535935724092" duration="5523000" />
+      <workItem from="1535963881566" duration="2007000" />
+      <workItem from="1536025522334" duration="16376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21779000" />
+    <option name="totallyTimeSpent" value="40234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.26705757" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -451,13 +583,13 @@
       <window_info id="Job Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32790446" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32790446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39630836" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3347826" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -471,8 +603,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.19349681" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3816631" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -485,35 +617,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tsu-config-server/src/main/java/com/tsu/tsuconfigserver/TsuConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-config-server/tsu-config-server.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsu-client-a/mvnw" />
     <entry file="file://$PROJECT_DIR$/tsu-client-a/.gitignore" />
     <entry file="file://$PROJECT_DIR$/tsu-client-a/mvnw.cmd" />
     <entry file="file://$PROJECT_DIR$/tsu-client-a/tsu-client-a.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/Driver.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -554,16 +662,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/vo/BaseResponseVo.java" />
     <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/vo/DataResponseVo.java" />
-    <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/controller/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsu-common/src/main/java/com/tsu/common/vo/DataResponseVo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -575,40 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-client-a/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -616,16 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-eureka-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -639,33 +693,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-common/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-common/target/surefire-reports/com.tsu.common.TsuCommonApplicationTests.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-common/target/surefire-reports/TEST-com.tsu.common.TsuCommonApplicationTests.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="64" column="338" selection-start-line="64" selection-start-column="334" selection-end-line="64" selection-end-column="338" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-common/target/surefire-reports/com.tsu.common.TsuCommonApplicationTests.txt" />
+    <entry file="file://$PROJECT_DIR$/tsu-common/target/surefire-reports/TEST-com.tsu.common.TsuCommonApplicationTests.xml" />
     <entry file="file://$PROJECT_DIR$/tsu-client-b/target/surefire-reports/TEST-com.tsu.clientb.TsuClientBApplicationTests.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -680,24 +709,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-client-b/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="180">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE.jar!/org/springframework/cloud/client/SpringCloudApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-consumer/tsu-consumer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="9" selection-end-column="54" />
+          <caret column="24" selection-start-column="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsu-client-b/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/tsu-config-server/src/main/java/com/tsu/tsuconfigserver/TsuConfigServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="280">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-client-a/src/main/java/com/tsu/clienta/TsuClientAApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-client-b/src/main/java/com/tsu/clientb/TsuClientBApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/io/zipkin/java/zipkin/2.10.1/zipkin-2.10.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/tsu-zipkin-server.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="188" column="14" selection-start-line="188" selection-start-column="14" selection-end-line="188" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-common/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-common/tsu-common.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-client-a/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-client-b/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-consumer/src/main/java/com/tsu/consumer/TsuConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/src/main/java/com/tsu/zipkinserver/TsuZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="140">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsu-zipkin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
         </state>
       </provider>
     </entry>

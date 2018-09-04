@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/tsu-client-a/pom.xml" />
         <option value="$PROJECT_DIR$/tsu-client-b/pom.xml" />
         <option value="$PROJECT_DIR$/tsu-common/pom.xml" />
+        <option value="$PROJECT_DIR$/tsu-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/tsu-zipkin-server/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,16 +10,20 @@
         <module name="tsu-client-b" />
         <module name="tsu-common" />
         <module name="tsu-config-server" />
+        <module name="tsu-consumer" />
         <module name="tsu-eureka-server" />
+        <module name="tsu-zipkin-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TSU-Chen-Cloud-Server" target="1.7" />
-      <module name="tsu-client-a" target="1.7" />
-      <module name="tsu-client-b" target="1.7" />
-      <module name="tsu-common" target="1.7" />
+      <module name="TSU-Chen-Cloud-Server" target="1.8" />
+      <module name="tsu-client-a" target="1.8" />
+      <module name="tsu-client-b" target="1.8" />
+      <module name="tsu-common" target="1.8" />
       <module name="tsu-config-server" target="1.8" />
-      <module name="tsu-eureka-server" target="1.7" />
+      <module name="tsu-consumer" target="1.8" />
+      <module name="tsu-eureka-server" target="1.8" />
+      <module name="tsu-zipkin-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
