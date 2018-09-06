@@ -30,6 +30,7 @@ public class AccessFilter extends ZuulFilter {
         return true;
     }
 
+    //  TODO 暂时未放开
     @Override
     public Object run() {
         /*RequestContext ctx = RequestContext.getCurrentContext();
